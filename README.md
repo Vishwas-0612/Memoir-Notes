@@ -22,7 +22,7 @@
 
 **Memoir-Notes** is a high-performance, developer-centric note-taking application designed for the modern web. Built with **Next.js 15**, **Drizzle ORM**, and **Better Auth**, it provides a "local-first" feel with a powerful rich-text editing experience, seamless notebook organization, and robust security.
 
-[Explore the Code](https://github.com/TheOrcDev/memoir-notes) | [Live Demo](#) 
+[Explore the Code](https://github.com/Vishwas-0612/Memoir-Notes) | [Live Demo](#) 
 
 ---
 
@@ -68,7 +68,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Vishwas-0612/Memoir-Notes.git](https://github.com/Vishwas-0612/Memoir-Notes.git)
+    git clone [https://github.com/Vishwas-0612/Memoir-Notes](https://github.com/Vishwas-0612/Memoir-Notes.git)
     cd memoir-notes
     ```
 
