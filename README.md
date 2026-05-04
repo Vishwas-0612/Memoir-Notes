@@ -68,7 +68,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Vishwas-0612/Memoir-Notes](https://github.com/Vishwas-0612/Memoir-Notes.git)
+    git clone https://github.com/Vishwas-0612/Memoir-Notes.git
     cd memoir-notes
     ```
 
